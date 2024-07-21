@@ -4,7 +4,7 @@
 The HR Insight Dashboard consolidates and visualizes data from multiple departments within the organization, providing a comprehensive overview of critical HR key performance indicators (KPIs) to enhance decision-making. This dashboard allows HR teams to obtain a high-level view of their operations while also exploring how specific data points interrelate. By utilizing this tool, HR professionals can identify patterns, develop proactive strategies, and quickly uncover insights that improve recruitment processes, optimize workplace management, and enhance employee performance. The dashboard is created using DAX (Data Analysis Expressions) and Power Query in Microsoft Excel, transforming raw data into actionable visualizations.
 
 ## Dataset Used
-The dataset is provided in CSV format and contains rough, unprocessed data regarding employee records from 2019 to 2021. Using Power Query, the data was cleaned and transformed into an analyzable format. The Fact Table contains transactional details such as purchases, quantities, order dates, and important IDs that link to several Dimension Tables.
+The dataset is provided in CSV format and contains rough, unprocessed data regarding employee records from 2019 to 2021. Using Power Query, the data was cleaned and transformed into an analyzable format. 
 
 ## Key Steps in the Project
 - **Data Extraction and Transformation**: 
