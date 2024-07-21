@@ -47,9 +47,21 @@ The dataset is provided in CSV format and contains rough, unprocessed data regar
 
 - **Filters**: Interactive filters for department, gender, country, products, and months to refine the dashboard data.
 
-  
+  ![Animation_new_3](https://github.com/user-attachments/assets/e54de63f-d184-43b6-b6b4-636c652bcf12)
 
 
+## Additional Insights
+- **Promotions for Bachelor's Degree Holders**: Determined the number of employees needing promotion under the Bachelor's degree criteria.
+- **Promotions for Doctorate Holders**: Calculated the number of employees needing promotion under the Doctorate degree criteria.
+- **Salary Increments in Tech Support**: Identified employees in the Tech Support department needing salary increments based on given criteria.
+- **Promotions in Sales and Marketing**: Evaluated the number of employees needing promotion in the Sales and Marketing department.
+- **Total Employees by Education**: Displayed the number of male and female employees based on educational background.
+- **Total Employees by Job Type and Salary**: Illustrated the number of employees by job types and corresponding salary.
+- **Employee Attrition**: Analyzed the status of active and inactive employees.
+- **Employees by Business Units and Salary**: Visualized the number of employees by business units and the salary distribution across these units, highlighting the transition between employee count and salary.
+- **Top 5 Departments by Employee Count**: Showcased the five departments with the highest number of employees.
+- **Employee Count by Gender**: Presented the distribution of employees by gender.
+- **Employee Count by Job Classification**: Provided a table view of employee count by job classification and educational breakdown, making it easy to read and interpret.
 
 
 ## Dashboard Overview
