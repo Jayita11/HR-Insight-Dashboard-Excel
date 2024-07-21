@@ -18,6 +18,7 @@ The dataset is in CSV format and has been cleaned and processed using Microsoft 
   ![unnamed-27](https://github.com/user-attachments/assets/ea6c018f-9df5-48b6-ae35-fda2c3e56963)
 
 - **Employee Status**: Pie charts depicting the distribution of active and non-active employees.
+  ![unnamed-28](https://github.com/user-attachments/assets/089d06b5-d211-4c2d-aece-d40810bfd1f8)
   
 - **Marital Status**: A doughnut chart representing the marital status distribution of employees.
 - **Total Number of Employees and Salary**: A comparison chart showing employee count and salary distribution across different locations.
