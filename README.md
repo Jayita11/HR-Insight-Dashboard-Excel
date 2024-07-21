@@ -22,17 +22,7 @@ The dataset is in CSV format and has been cleaned and processed using Microsoft 
 - **Education by Employees**: Breakdown of employee education levels and gender distribution.
 - **Filters**: Interactive filters for department, gender, country, products, and months to refine the dashboard data.
 
-## Dashboard Overview
-![unnamed-26](https://github.com/user-attachments/assets/66a94108-005f-475a-b92e-406016cf2952)
-
-![unnamed-25](https://github.com/user-attachments/assets/8449fb7d-5601-4b7e-bddd-095d714183b7)
-
-![Animation1-3](https://github.com/user-attachments/assets/10fac6f5-71e5-4f63-83d5-8e4e859b843c)
-
-![Animation3-2](https://github.com/user-attachments/assets/56b31e71-1fe0-4dc1-afb7-69fe706c262a)
-
-
-## Additional Insights
+  ## Additional Insights
 1. **Cumulative Sales**: Calculated cumulative sales from the beginning of the transaction year to the latest year, dynamically updating with new data.
 2. **Top 3 Profitable Customers**: Identified the most profitable customers to understand who supports company growth.
 3. **Bottom 3 Customers**: Highlighted the least profitable customers to develop strategies for improvement.
@@ -46,6 +36,16 @@ The dataset is in CSV format and has been cleaned and processed using Microsoft 
 - **Power BI / Power Pivot**: Leveraged for creating relationships and interactive dashboards.
 - **Excel**: Utilized for data preparation and initial analysis.
 - **Data Visualization**: Skills in designing and implementing effective visualizations.
+
+## Dashboard Overview
+![unnamed-26](https://github.com/user-attachments/assets/66a94108-005f-475a-b92e-406016cf2952)
+
+![unnamed-25](https://github.com/user-attachments/assets/8449fb7d-5601-4b7e-bddd-095d714183b7)
+
+![Animation1-3](https://github.com/user-attachments/assets/10fac6f5-71e5-4f63-83d5-8e4e859b843c)
+
+![Animation3-2](https://github.com/user-attachments/assets/56b31e71-1fe0-4dc1-afb7-69fe706c262a)
+
 
 ## Soft Skills
 - **Analytical Thinking**: Applied to interpret data and extract meaningful insights.
