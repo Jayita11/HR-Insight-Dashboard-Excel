@@ -15,6 +15,7 @@ The dataset is in CSV format and has been cleaned and processed using Microsoft 
 
 ## Dashboard Components
 - **5 Departments with the Highest Employees**: A bar chart showcasing the top five departments based on employee count.
+  
   ![unnamed-27](https://github.com/user-attachments/assets/ea6c018f-9df5-48b6-ae35-fda2c3e56963)
 
 - **Employee Status**: Pie charts depicting the distribution of active and non-active employees.
@@ -31,6 +32,7 @@ The dataset is in CSV format and has been cleaned and processed using Microsoft 
 
 
 - **Job Distribution**: Metrics and tables for Blue Collar, Other Job, and White Collar employees.
+  
   ![Animation_new_2](https://github.com/user-attachments/assets/e9893415-26c5-4e20-afc4-cca6edd63c58)
 
 - **Education by Employees**: Breakdown of employee education levels and gender distribution.
