@@ -36,6 +36,9 @@ The dataset is in CSV format and has been cleaned and processed using Microsoft 
   ![Animation_new_2](https://github.com/user-attachments/assets/e9893415-26c5-4e20-afc4-cca6edd63c58)
 
 - **Education by Employees**: Breakdown of employee education levels and gender distribution.
+
+  ![unnamed-31](https://github.com/user-attachments/assets/2f4c83a4-d20a-4669-a7a5-950da11b6cfc)
+
 - **Filters**: Interactive filters for department, gender, country, products, and months to refine the dashboard data.
 
   ## Additional Insights
