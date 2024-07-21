@@ -1,0 +1,22 @@
+Department
+Groups
+Job types
+Marital Status
+Age
+Business Unit
+Hire Date
+Employees type
+Sick Days
+Balance days
+Years in current role
+years since last promotion
+Education
+Job involvement
+Job Satisfaction
+Perfornance rating
+Relationship Satisfaction
+Worklife balance
+Workers name
+Gender
+Salary
+Job Classification
