@@ -18,13 +18,18 @@ The dataset is in CSV format and has been cleaned and processed using Microsoft 
   ![unnamed-27](https://github.com/user-attachments/assets/ea6c018f-9df5-48b6-ae35-fda2c3e56963)
 
 - **Employee Status**: Pie charts depicting the distribution of active and non-active employees.
-  ![unnamed-28](https://github.com/user-attachments/assets/089d06b5-d211-4c2d-aece-d40810bfd1f8)
+   ![unnamed-28](https://github.com/user-attachments/assets/089d06b5-d211-4c2d-aece-d40810bfd1f8)
   
 - **Marital Status**: A doughnut chart representing the marital status distribution of employees.
-  ![unnamed-29](https://github.com/user-attachments/assets/4a99e18b-a059-4514-9afa-98beae04cbfb)
+   ![unnamed-29](https://github.com/user-attachments/assets/4a99e18b-a059-4514-9afa-98beae04cbfb)
 
 - **Total Number of Employees and Salary**: A comparison chart showing employee count and salary distribution across different locations.
+  ![Animation_new_1](https://github.com/user-attachments/assets/72220b5e-a83d-4467-9293-010564ea88c9)
+
+
 - **Job Distribution**: Metrics and tables for Blue Collar, Other Job, and White Collar employees.
+  ![Animation_new_2](https://github.com/user-attachments/assets/e9893415-26c5-4e20-afc4-cca6edd63c58)
+
 - **Education by Employees**: Breakdown of employee education levels and gender distribution.
 - **Filters**: Interactive filters for department, gender, country, products, and months to refine the dashboard data.
 
