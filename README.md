@@ -76,7 +76,7 @@ The dataset is provided in CSV format and contains rough, unprocessed data regar
 
 ## Technical Skills
 - **DAX (Data Analysis Expressions)**: Used extensively for data manipulation and analysis.
-- **Power BI / Power Pivot**: Utilized for creating relationships and interactive dashboards.
+- **Power Pivot**: Utilized for creating relationships and interactive dashboards.
 - **Excel**: Used for data preparation and initial analysis.
 - **Data Visualization**: Skills in designing and implementing effective visualizations.
 
